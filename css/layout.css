@@ -634,6 +634,7 @@ fieldset[disabled] .btn-theme {
   }
   .header .navbar-toggle {
     display: block;
+    margin: 15px 0;
   }
   .header .navbar-collapse.collapse {
     display: none !important;
