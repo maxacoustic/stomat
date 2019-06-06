@@ -335,7 +335,8 @@ fieldset[disabled] .btn-theme {
 ------------------------------------------------------------------*/
 .promo-block {
   position: relative;
-  background: #fafafa;
+  /* background: #fafafa; */
+  /* background: url(img/1920x1080/main_background.jpg); */
   padding-top: 220px;
 }
 
@@ -347,7 +348,8 @@ fieldset[disabled] .btn-theme {
 }
 
 .promo-block .promo-block-title {
-  font-size: 70px;
+  /* font-size: 70px; */
+  font-size: 62px;
   line-height: 1;
 }
 
