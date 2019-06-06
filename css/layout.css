@@ -54,7 +54,8 @@ li a {
 
 a {
   font-family: Roboto Slab, sans-serif;
-  color: #81848f;
+  /* color: #81848f; */
+  color: #337ab7;
   outline: 0;
 }
 
