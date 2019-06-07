@@ -38,7 +38,8 @@ p {
   font-size: 15px;
   font-weight: 400;
   font-family: Roboto Slab, sans-serif;
-  color: #a6a7aa;
+  /* color: #a6a7aa; */
+  color: #707275;
   line-height: 1.4;
   margin-bottom: 15px;
 }
@@ -344,7 +345,8 @@ fieldset[disabled] .btn-theme {
 @media (max-width: 768px) {
   .promo-block {
     text-align: center;
-    padding-top: 170px;
+    /* padding-top: 170px; */
+    padding-top: 70px;
   }
 }
 
@@ -1205,7 +1207,8 @@ fieldset[disabled] .btn-theme {
     margin-bottom: 50px !important;
   }
   .sm-margin-b-60 {
-    margin-bottom: 60px !important;
+    /* margin-bottom: 60px !important; */
+    margin-bottom: 30px !important;
   }
   .sm-margin-b-70 {
     margin-bottom: 70px !important;

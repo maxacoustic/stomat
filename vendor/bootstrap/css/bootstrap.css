@@ -6515,9 +6515,12 @@ button.close {
   clear: both;
 }
 .center-block {
-  display: block;
+  /* display: block;
   margin-right: auto;
-  margin-left: auto;
+  margin-left: auto; */
+  display: table;
+  margin: 0 auto;
+  text-align: center;
 }
 .pull-right {
   float: right !important;
